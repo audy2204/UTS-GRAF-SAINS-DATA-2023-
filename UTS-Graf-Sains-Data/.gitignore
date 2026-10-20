@@ -1,0 +1,6 @@
+myvenv/
+myenv/
+.ipynb_checkpoints/
+__pycache__/
+*.zip
+data/events.csv
